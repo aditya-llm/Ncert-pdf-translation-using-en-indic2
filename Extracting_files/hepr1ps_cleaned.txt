@@ -1,0 +1,469 @@
+Textbook of English for Grade 8
+POORVI
+POORVIFirst Edition
+May 2025   Vaishakha 1947
+PD 1500T SM
+© National Council of Educational
+Research and Training, 2025
+ALL RIGHTS RESERVED
+No part of this publication may be reproduced, stored in
+a retrieval system or transmitted, in any form or by any
+means, electronic, mechanical, photocopying, recording or
+otherwise without the prior permission of the publisher.
+This book is sold subject to the condition that it shall not,
+by way of trade,  be lent,  re-sold, hired out or otherwise
+disposed of without the publisher’s consent, in any form of
+binding or cover other than that in which it is published.
+The correct price of this publication is the price printed on
+this page, Any revised price indicated by a rubber stamp or
+by a sticker or by any other means is incorrect and should
+be unacceptable.
+Publication Team
+Head, Publication
+M.V. Srinivasan
+Division
+Chief Editor
+Bijnan Sutar
+Chief Production
+Jahan Lal
+Officer (In charge)
+Chief Business
+Amitabh Kumar
+Manager
+Editor
+Shilpa Mohan
+Production Officer
+Deepak Jaiswal
+Cover and Layout
+Blue Fish Designs Pvt. Ltd.
+Illustrations
+Achin Jain c/o Green Tree Designing Studio Pvt. Ltd.
+Fajruddin c/o Junaid Digital Arts
+Santosh Mishra c/o Aimarts
+OFFICES OF THE PUBLICATION
+DIVISION, NCERT
+NCERT Campus
+Sri Aurobindo Marg
+New  Delhi 110 016
+108, 100 Feet Road
+Hosdakere Halli Extension
+Banashankari III Stage
+Bengaluru 560 085
+Navjivan Trust Building
+P.O.Navjivan
+Ahmedabad 380 014
+CWC Campus
+Opp. Dhankal Bus Stop
+Panihati
+Kolkata 700 114
+CWC Complex
+Maligaon
+Guwahati 781 021
+0873 – POORVI
+Textbook of English for Grade 8
+Printed on 80 GSM paper with NCERT
+watermark
+Published at the Publication Division by the
+Secretary, National Council of Educational
+Research and Training, Sri Aurobindo
+Marg, New Delhi 110 016 and printed at
+SRG Traders Pvt. Ltd., B-41, Sector-67,FOREWORD
+The National Education Policy 2020 envisages a system of education in the
+country that is rooted in Indian ethos and its civilisational accomplishments
+in all domains of human endeavour and knowledge, while at the same time
+preparing students to constructively engage with the prospects and challenges
+of the twenty-first century. The basis for this aspirational vision has been
+well laid out by the National Curriculum Framework for School Education
+(NCF-SE) 2023 across curricular areas at all stages. Having nurtured students’
+inherent abilities, touching upon all the five planes of human existence, the
+pañchakośas in the Foundational and the Preparatory Stages have paved the
+way for the progression of their learning further at the Middle Stage. Thus,
+the Middle Stage acts as a bridge between the Preparatory and the Secondary
+Stages, spanning three years from Grade 6 to Grade 8.
+The NCF-SE 2023, at the Middle Stage, aims to equip students with the skills
+that are needed to grow as they advance in lives. It endeavours to enhance
+their analytical, descriptive, and narrative capabilities, and to prepare them
+for the challenges and opportunities that await them. A diverse curriculum,
+covering nine subjects in three languages—including at least two languages
+native to India—Science, Mathematics, Social Sciences, Art Education,
+Physical Education and Well-being, and Vocational Education promotes
+their holistic development.
+Such a transformative learning culture requires certain essential conditions.
+One of them is to have appropriate textbooks in different curricular areas
+as these textbooks will play a central role in mediating between content
+and pedagogy—a role that will strike a judicious balance between direct
+instruction and opportunities for exploration and inquiry. Among the other
+conditions, classroom arrangement and teacher preparation are crucial to
+establish conceptual connections both within and across curricular areas.
+The National Council of Educational Research and Training, on its part, is
+committed to providing students with such high-quality textbooks. Various
+Curricular Area Groups, which have been constituted for this purpose,
+comprising notable subject-experts, pedagogues, and practising teachers as
+their members, have made all possible efforts to develop such textbooks.
+Poorvi, the English language textbook for Grade 8 is one of these. Its content
+comprises stories, poems, and narratives that ensure a reflection of their
+social, cultural, and geographical landscapes wherein students are sure to
+find traces of their lived experiences.iv
+Poorvi also weaves into its contents snippets from the vast treasure-trove
+of Indian Knowledge Systems, India’s artistic and cultural heritage, and
+embeds values alongside ecological sensitivity, gender equality, digital
+skills, etc. For all practical purposes, it has, to my mind, succeeded in its
+Curricular Goals: first, to foster natural curiosity among students through
+a proper selection of content, and second, develop among them the core
+competencies in listening, speaking, reading, and writing by intelligently
+designing various activities around them, thereby seamlessly integrating
+vocabulary and grammar within meaningful contexts.
+However, in addition to this textbook, students at this stage should also be
+encouraged to explore various other learning resources. School libraries
+play a crucial role in making such resources available. Besides, the role of
+parents and teachers will also be invaluable in guiding and encouraging
+students to do so.
+With this, I express my gratitude to all those who have been involved in the
+development of this textbook, and hope that it will meet the expectations
+of all stakeholders. At the same time, I also invite suggestions and feedback
+from all its users for further improvement in the coming years.
+Dinesh Prasad Saklani
+Director
+New Delhi
+National Council of Educational
+Research and TrainingPoorvi, textbook of English for Grade 8, has been developed in alignment with the
+vision of the National Education Policy (NEP) 2020 and the National Curriculum
+Framework for School Education (NCF-SE) 2023. Language education is essential
+for effective communication, aesthetic expression, and appreciation. Reasoning
+and critical thinking are closely linked with language use, and these are valuable
+capacities to be developed. Language development plays an important role in
+the development of perceptual and practical concepts, and also enables us to
+check our experiences with others to ensure that we have a shared meaning
+emerging from these experiences. The textual material developed for the
+Middle Stage will take children well beyond the Preparatory Stage.
+Curricular Goals, competencies, and learning outcomes have been the guiding
+principles in developing the textbook. The Curricular Goals (CG) cover a range
+of competencies. The NCF-SE 2023 has stated the following Curricular Goals:
+CG-1: Develops independent reading, comprehension, and summarising
+skills of a variety of texts (stories, poems, extracts of plays, essays,
+articles, and news reports).
+CG-2: Attains the ability to write about thoughts, feelings, and experiences
+of social events.
+CG-3: Develops the capacity for effective communication using language
+skills for questioning, describing, analysing, and responding.
+CG-4: Explores different literary devices and forms of literature.
+CG-5: Develops the ability to recognise basic linguistic aspects (word and
+sentence structure) and use them in oral and written expression.
+CG-6: Develops an appreciation of the distinctive features of the language,
+including its alphabet and script, sounds, rhymes, puns, and other
+wordplays and games unique to the language (pp. 245–246).
+The Curricular Goals have been covered through a variety of themes and
+an array of activities. There are five thematic units that comprise stories,
+poems, conversations, and narrative and descriptive pieces. Themes, such as
+wit and wisdom, values and dispositions, mystery and magic, environment,
+and science and curiosity have been included. Cross-cutting themes, such
+as Indian Knowledge Systems, values, heritage, gender sensitivity, and
+inclusion have been integrated into all the units. Each unit has three literary
+pieces―story, poem, and conversation, or non-fictional writing. There
+are in-text questions, ‘Let us discuss’ to assess comprehension of the text.
+The end-of-the-text questions given in ‘Let us think and reflect’ are designed
+to encourage critical thinking, reasoning, responding, analysing, and more.
+ABOUT THE BOOKvi
+Unit 1—‘Wit and Wisdom’ celebrates intelligence, humour, and critical
+thinking. ‘The Wit that Won Hearts’ introduces students to the kingdom of
+Krishnadeva Raya and legendary courtier Tenali Rama known for his wit and
+problem-solving skills. The poem, ‘A Concrete Example’ by Reginald Arkell
+highlights irony and satire in everyday situations. A rock garden may be a
+thing of beauty for someone, and it may not catch the attention of someone
+else. The play, ‘Wisdom Paves the Way’ presents a thought-provoking scenario
+where different perspectives lead to unique solutions. It appreciates the role
+of wisdom, reasoning, and critical thinking in resolving conflicts.
+Unit 2—‘Values and Dispositions’ emphasises that true strength lies in
+courage, kindness, and responsibility. ‘A Tale of Valour: Major Somnath
+Sharma and The Battle of Badgam’ teaches students the values of courage,
+duty, and patriotism, showing how selflessness and commitment to one’s
+country can make a lasting impact. The poem, ‘Somebody’s Mother’ by Mary
+Dow Brine, focuses on values of kindness, empathy, and the importance of
+helping others. It teaches that small acts of kindness can bring great comfort
+to those in need. ‘Verghese Kurien – I Too Had a Dream’ encourages young
+people to not only pursue personal success but also contribute to the greater
+good of the society, reinforcing the value of serving one’s community with
+honesty and perseverance.
+Unit 3—‘Mystery and Magic’ highlights the power of intelligence,
+the wonders of creativity and the breathtaking marvels of nature.
+‘The Case of the Fifth Word’ by Donald J. Sobol emphasises that keen attention
+to detail and critical thinking can help uncover hidden truths and solve
+mysteries. The poem, ‘The Magic Brush of Dreams’, revolves around creativity,
+kindness, and the power of art. The poem teaches that talent should be used
+for good, emphasising generosity and the impact of imagination in shaping
+the world. ‘Spectacular Wonders’, explores India’s unique and mysterious
+natural wonders, highlighting the enigmatic charm that each place unfolds.
+Unit 4—‘Environment’ encourages students to nurture a bond with nature
+and express gratitude for the bountiful gifts it offers. ‘The Cherry Tree’ by
+Ruskin Bond is a story that emphasises the importance of nurturing and the
+rewards of perseverance. It also teaches us to appreciate the small miracles
+of life and value our deep connection with nature. The poem, ‘Harvest Hymn’
+by Sarojini Naidu, reflects the hardwork of farmers and their deep faith in
+the land and the divine forces. It signifies the harmony between humans
+and nature, portraying the harvest as a sacred and joyous occasion. ‘Waiting
+for the Rain’, by Kamakshi Balasubramanian, is a story that captures the
+vagaries of nature, and its impact on farming. It also highlights the wisdom
+in understanding the natural cycle of renewal and balance.vii
+Unit 5—‘Science and Curiosity’ sparks curiosity about the wonders of science,
+technology, and discovery. ‘Feathered Friend’ by Arthur C. Clarke explores
+companionship beyond human relationships through the story of a bird
+in space. The poem, ‘Magnifying Glass’ by Walter de la Mare, encourages
+students to explore perception and mystery. ‘Bibha Chowdhuri: The Beam
+of Light that Lit the Path for Women in Indian Science’ highlights renowned
+scientists and their contributions, promoting discussions on scientific
+advancements.
+These literary pieces serve not only as sources of entertainment but also
+as repositories of valuable life lessons, fostering personal growth, and
+equipping children with skills to navigate social situations with confidence.
+By resonating with children’s daily experiences, the selected pieces promote
+positive values such as resilience, empathy, and emotional intelligence,
+thereby exerting a profound impact on their overall development.
+The primary focus lies in cultivating competencies in listening, speaking,
+reading, and writing while concurrently developing vocabulary and
+grammar in context. Language learning truly comes to life when connected
+to the immediate environment of learners, allowing them to express their
+thoughts, feelings, and experiences through experiential learning. All
+the activities are conveniently colour coded under headings, such as ‘Let
+us discuss’, ‘Let us think and reflect’, ‘Let us learn’, ‘Let us listen’, ‘Let us
+speak’, ‘Let us write’, and ‘Let us explore’. ‘Let us Explore’ extends learning
+beyond the text, staying within the unit’s theme. It aims to connect students
+with the Indian Knowledge System, fostering an appreciation for our rich
+heritage and culture, encouraging students to delve deeper, engage in
+meaningful discussions, and broaden their understanding. In-text activities
+and exercises at the end of each chapter are thoughtfully designed to be
+engaging, fostering joyful learning experiences while serving as tools for
+assessment and learning. Illustrations have been carefully crafted to depict
+the relevant context and enhance comprehension.
+We sincerely hope that students will enjoy doing these activities, and develop
+language competencies.
+Kirti Kapur
+Professor of English, and
+Member-Coordinator
+Department of Education in Languages,
+NCERT, New DelhiNATIONAL SYLLABUS AND TEACHING
+LEARNING MATERIAL COMMITTEE
+(NSTC)
+1. M.C. Pant, Chancellor, National Institute of Educational Planning and
+Administration (NIEPA), (Chairperson)
+2. Manjul Bhargava, Professor, Princeton University, (Co-Chairperson)
+3. Sudha Murty, Acclaimed Writer and Educationist
+4. Bibek Debroy, Chairperson, Economic Advisory Council to the
+Prime Minister (EAC – PM)
+5. Shekhar Mande, Former Director General, CSIR; Distinguished Professor,
+Savitribai Phule Pune University, Pune
+6. Sujatha Ramdorai, Professor, University of British Columbia, Canada
+7. Shankar Mahadevan, Music Maestro, Mumbai
+8. U. Vimal Kumar, Director, Prakash Padukone Badminton Academy,
+Bengaluru
+9. Michel Danino, Visiting Professor, IIT–Gandhinagar
+10. Surina Rajan, IAS (Retd.), Haryana, Former Director General, HIPA
+11. Chamu Krishna Shastri, Chairperson, Bharatiya Bhasha Samiti,
+Ministry of Education
+12. Sanjeev
+Sanyal,
+Member,
+Economic
+Advisory
+Council
+to
+the
+Prime Minister (EAC – PM)
+13. M.D. Srinivas, Chairperson, Centre for Policy Studies, Chennai
+14. Gajanan Londhe, Head, Programme Office
+15. Rabin Chhetri, Director, SCERT, Sikkim
+16. Pratyusha Kumar Mandal, Professor, Department of Education in
+Social Sciences, NCERT, New Delhi
+17. Dinesh Kumar, Professor, Department of Education in Science and
+Mathematics, NCERT, New Delhi
+18. Kirti Kapur, Professor, Department of Education in Languages, NCERT,
+New Delhi
+19. Ranjana Arora, Professor and Head, Department of Curriculum Studies
+and Development, NCERT (Member-Secretary)Constitution of India
+Fundamental Duties
+It shall be the duty of every citizen of India —
+(a) to abide by the Constitution and respect its ideals and institutions, the
+National Flag and the National Anthem;
+(b) to cherish and follow the noble ideals which inspired our national
+struggle for freedom;
+(c) to uphold and protect the sovereignty, unity and integrity of India;
+(d) to defend the country and render national service when called upon to
+do so;
+(e) to promote harmony and the spirit of common brotherhood amongst
+all the people of India transcending religious, linguistic and regional
+or sectional diversities; to renounce practices derogatory to the dignity
+of women;
+to value and preserve the rich heritage of our composite culture;
+(g) to protect and improve the natural environment including forests, lakes,
+rivers, wildlife and to have compassion for living creatures;
+(h) to develop the scientific temper, humanism and the spirit of inquiry
+and reform;
+to safeguard public property and to abjure violence;
+to strive towards excellence in all spheres of individual and collective
+activity so that the nation constantly rises to higher levels of endeavour
+and achievement;
+*(k) who is a parent or guardian, to provide opportunities for education
+to his child or, as the case may be, ward between the age of six and
+fourteen years.
+Note: The Article 51A containing Fundamental Duties was inserted by the Constitution (42nd
+Amendment) Act, 1976 (with effect from 3 January 1977).
+*(k) was inserted by the Constitution (86th Amendment) Act, 2002 (with effect from
+Part IV A (Article 51 A)CONTRIBUTORS
+N. Nagaraju, Professor and Vice Chancellor, English and Foreign Languages,
+University, Hyderabad (Team Leader)
+Anju Gandhi, Academic Consultant, Sri Sri Ravi Shankar Vidya Mandir Trust,
+Bengaluru
+Girish Nair, Senior Member, Samvit Research Foundation, Bengaluru
+Nidhi Tiwari, Professor, Department of Education in Languages, NCERT,
+New Delhi
+Rachana Chattopadhyay, PGT English, Cambridge School Srinivaspuri,
+New Delhi
+Ruchi Sengar, CBSE Subject Expert; ELT Consultant, New Delhi
+Saket Bahuguna, Assistant Professor, Central Institute of Hindi-Delhi Centre,
+New Delhi
+Sasi Raj, PGT English, PM Shri Kendriya Vidyalaya, DIAT, Pune
+Suganya J., Head of Department, English, Bala Vidya Mandir Senior Secondary
+School, Adyar, Chennai
+Sushmita Roy Choudhury, Dean Academics, G. D. Goenka Public School, Jammu
+Kirti Kapur, Professor, Department of Education in Languages, NCERT,
+New Delhi (Member-Coordinator)
+TEXTBOOK DEVELOPMENT TEAMConstitution of india
+Part iii (articles 12 – 35)
+(Subject to certain conditions, some exceptions
+and reasonable restrictions)
+guarantees these
+fundamental Rights
+Right to Equality
+• before law and equal protection of laws;
+• irrespective of religion, race, caste, sex or place of birth;
+• of opportunity in public employment;
+• by abolition of untouchability and titles.
+Right to freedom
+• of expression, assembly, association, movement, residence and profession;
+• of certain protections in respect of conviction for offences;
+• of protection of life and personal liberty;
+• of free and compulsory education for children between the age of six and fourteen years;
+• of protection against arrest and detention in certain cases.
+Right against Exploitation
+• for prohibition of traffic in human beings and forced labour;
+• for prohibition of employment of children in hazardous jobs.
+Right to freedom of Religion
+• freedom of conscience and free profession, practice and propagation of religion;
+• freedom to manage religious affairs;
+• freedom as to payment of taxes for promotion of any particular religion;
+• freedom as to attendance at religious instruction or religious worship in
+educational institutions wholly maintained by the State.
+Cultural and Educational Rights
+• for protection of interests of minorities to conserve their language, script and culture;
+• for minorities to establish and administer educational institutions of their choice.
+Right to Constitutional Remedies
+• by issuance of directions or orders or writs by the Supreme Court and High
+Courts for enforcement of these Fundamental Rights.The National Council of Educational Research and Training (NCERT)
+acknowledges the guidance and support of the esteemed Chairperson and
+members of the National Curriculum Framework Oversight Committee
+for their invaluable contributions in overseeing the translation of
+NCF-SE 2023 perspectives into the textbook. NCERT is also deeply grateful to
+the Chairperson, Co-Chairperson, and Members of the National Syllabus and
+Teaching-Learning Material Development Committee for their continuous
+guidance and thorough review of the textbook. Furthermore, NCERT extends
+its heartfelt thanks to the Chairpersons and members of the Sub-Group:
+English of the Curricular Area Group (CAG): Languages, as well as other
+relevant CAGs, for their support and guidelines on the cross-cutting themes.
+The Council is grateful for granting permission to reproduce copyright material
+in this book and would like to thank Ruskin Bond for ‘The Cherry Tree’;
+and Kamakshi Balasubramanian for the story ‘Waiting for the Rain’ published
+by The National Book Trust; and Nirmala Kurien and Siddharth Sheth for
+‘Verghese Kurien—I Too Had A Dream’ by Verghese Kurien, a letter to his
+grandson.
+We also acknowledge the following: Sarojini Naidu for ‘Harvest Hymn’ from
+The Golden Threshold; Mary Dow Brine for ‘Somebody’s Mother’; Arthur C.
+Clarke for ‘Feathered Friend’; Donald J. Sobol for ‘The Case of the Fifth Word’
+(adapted); Walter de la Mare for ‘Magnifying Glass’; and Reginald Arkell for
+‘A Concrete Example’.
+The Council acknowledges the support of Amarendra Behera, Professor and
+Joint Director, CIET; Pratyusha Kumar Mandal, Professor and Head, DESS;
+Sunita Farakya, Professor and Head, DESM; Indrani Bhaduri, Professor and
+Head, ESD; Vinay Singh, Professor and Head, DEGSN; Milli Roy, Professor
+and Head, DGS; and Jyotsna Tiwari, Professor and Head, DEAA, along with
+their teams, for their meticulous efforts in ensuring the seamless integration
+of cross-curricular aspects throughout the textbook and linkages with other
+curricular areas. Our special thanks to Ministry of Defence (MoD) for their
+support and guidance for the chapter on Major Somnath Sharma, PVC. We
+thank Gauri Srivastava, Professor, DESS for coordinating with the MoD. We
+also thank Kirti Kapur, Professor, DEL for developing the content of this
+chapter.
+We are also grateful to Md. Faruq Ansari, Professor and Head, DEL, for
+providing academic and administrative support.
+ACKNOWLEDGEMENTSxiv
+The Council acknowledges and appreciates the contributions made by
+Monika Dohare, Senior Research Assistant; Asma Rafiq, Deepa Dubey, Faizy
+Abdul Kalam, Abhishek Kumar, and Alisha Mural, Junior Project Fellows; and
+Himani, Graphic Designer (Contractual) from the Department of Education in
+Languages, NCERT for providing support in the development of the textbook.
+Special thanks are also due to the Publication Division, NCERT for
+their
+support.
+NCERT
+gratefully
+acknowledges
+the
+contributions
+made by Pawan Kumar Barriar, Incharge, DTP Cell; Mohammad Wasi
+and Manoj
+Kumar, DTP
+Operators (Contractual); Kanchan Mishra,
+Ambuj Mishra, Keshav Kumar, and Rajat Subhra Roy, Proofreaders
+(Contractual); and Shadab Khan, Computer Typist (Contractual).
+Copyright has been applied for all the texts and the publisher extends
+apologies for any omissions and would be glad to hear from any such
+unacknowledged copyright holders.
+Poorvi
+The textbook of English for Grade 8 is titled Poorvi after the
+Indian rāga ‘Poorvi’. This rāga is said to promote harmony
+and serenity. It is associated with dusk, specifically sunset
+time (Sandhi Prakash). Each rāga in Indian music carries its
+own emotional significance and is symbolically connected
+to certain seasons, times of day, and moods. Rāgas are
+believed to evoke specific emotions in listeners.
+Poorvi is an ancient and traditional Hindustani classical
+rāga that originated in eastern India. It is typically performed
+during the fourth prahar of the day, between 3:00 p.m. and
+6:00 p.m. It evokes a sense of calmness and contemplation in
+the journey of learners, symbolising a harmonious blend of
+traditional and modern learning.Foreword
+iii
+About the Book
+v
+Unit 1: Wit and Wisdom
+The Wit that Won Hearts
+A Concrete Example
+Wisdom Paves the Way
+Unit 2: Values and Dispositions
+A Tale of Valour: Major Somnath Sharma
+and the Battle of Badgam
+Somebody’s Mother
+Verghese Kurien—I Too Had A Dream
+Unit 3: Mystery and Magic
+The Case of the Fifth Word
+The Magic Brush of Dreams
+Spectacular Wonders
+Unit 4: Environment
+The Cherry Tree
+Harvest Hymn
+Waiting for the Rain
+Unit 5: Science and Curiosity
+Feathered Friend
+Magnifying Glass
+Bibha Chowdhuri: The Beam of
+Light that Lit the Path for Women in
+Indian Science
+CONTENTS
+Foreword
+About the Book
+Unit 1: Wit and W
+The Wit th
+A Concret
+Wisdom P
+Unit 2: Values an
+A Tale of V
+and the B
+CON
